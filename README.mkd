@@ -1,0 +1,30 @@
+# Framework (dalej developerska)
+Aplikacja do szybkiego stawiania nowych skryptów. Nacisk na szybką rozbudowę i przejrzystość.
+
+### Wysyłanie danych
+
+Wszystkie zmiany idą do brancha dev, potem to będę przenosił do mastera. W masterze będą tylko stabilne wersje do używania w skryptach.
+
+### Wersja 1.0.2.1
+
+ - Nowy routing i translacja adresów (np. example.com/?contact/office) z obsługą mod_rewrite (na razie brak odpowiedniego .htaccess)
+ - Logowanie danych w istotnych miejscach systemu
+ 
+### Wersja 1.0.2
+
+ - Automatyczne ładowanie klas (bez zagnieżdżonych folderów, do fixowania)
+ - Debugger
+ - Translacja adresów (również obsługa bez mod_rewrite)
+ 
+### Wersja 1.0.1
+
+ - Logowanie danych do pliku
+ 
+### Wersja 1.0.0
+
+ - Wykonany szkielet aplikacji
+ - Fabryka PDO (singleton)
+ - Brak jakichkolwiek bibliotek pomocniczych
+ 
+
+ 
