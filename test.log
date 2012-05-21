@@ -1,0 +1,6 @@
+2012-05-20T14:07:54+02:00	LOGGER_ERROR	Błąd wykonywania żądania: Nie udało się załadować pliku obsługi żądania: CokolwiekCommand	Core
+2012-05-20T20:35:54+02:00	LOGGER_ERROR	Błąd wykonywania żądania: Nie udało się załadować pliku obsługi żądania: ElseCommand	Core
+2012-05-20T23:25:12+02:00	LOGGER_ERROR	Błąd zapisywania danych sesji: Jakiś error	UserSession
+2012-05-21T16:13:04+02:00	LOGGER_ERROR	Błąd wykonywania żądania: Nie udało się załadować pliku obsługi żądania: Index.phpCommand	Core
+2012-05-21T16:13:15+02:00	LOGGER_ERROR	Błąd wykonywania żądania: Nie udało się załadować pliku obsługi żądania: Index.phpCommand	Core
+2012-05-21T16:13:41+02:00	LOGGER_ERROR	Błąd wykonywania żądania: Nie udało się załadować pliku obsługi żądania: Index.phpCommand	Core
